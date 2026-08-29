@@ -7,30 +7,30 @@
 Building practical software, scalable APIs, location-based applications,
 and offline-first systems.
 
-<br>
+<br/>
 
 <a href="https://github.com/AkshayUpadhayay0">
   <img src="https://komarev.com/ghpvc/?username=akshayupadhayay0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/AkshayUpadhayay0?tab=followers">
   <img src="https://img.shields.io/github/followers/AkshayUpadhayay0?label=Followers&style=flat" alt="GitHub Followers"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/AkshayUpadhayay0?tab=repositories">
   <img src="https://img.shields.io/github/stars/AkshayUpadhayay0?label=Stars&style=flat" alt="GitHub Stars"/>
 </a>
 
-<br><br>
+<br/><br/>
 
 <a href="https://linkedin.com/in/akshay-upadhayay">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="https://akshayupadhayay0.github.io/portfolio_/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-
+&nbsp;
 <a href="mailto:akshaykumarupadhayay98@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -41,13 +41,17 @@ and offline-first systems.
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer with 4+ years of experience** building backend and full-stack applications.
+I'm a **Software Engineer with 4+ years of experience** building backend and
+full-stack applications.
 
-I mainly work with **C#, ASP.NET Core, Angular, PostgreSQL, SQL Server, Android, and React Native**.
+I mainly work with **C#, ASP.NET Core, Angular, PostgreSQL, SQL Server,
+Android, and React Native**.
 
-I enjoy building software that solves practical, real-world problems — especially applications involving **GIS, GPS, maps, field data collection, mobile devices, and offline-first workflows**.
+I enjoy building software that solves practical, real-world problems —
+especially applications involving **GIS, GPS, maps, field data collection,
+mobile devices, and offline-first workflows**.
 
-### What I focus on
+### What I Focus On
 
 - 🔹 Backend & REST API development
 - 🔹 Full-stack web applications
@@ -64,10 +68,14 @@ I enjoy building software that solves practical, real-world problems — especia
 
 ### 📍 React Native GPS / Map Application
 
-I'm currently working on a React Native application focused on **GPS, maps, location data and mobile workflows**.
+I'm currently working on a React Native application focused on
+**GPS, maps, location data and mobile workflows**.
 
 <a href="https://github.com/AkshayUpadhayay0/react-native-gps-map-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayUpadhayay0&repo=react-native-gps-map-app&hide_border=true&theme=transparent" alt="React Native GPS Map App"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayUpadhayay0&repo=react-native-gps-map-app&hide_border=true&theme=transparent"
+    alt="React Native GPS Map App"
+  />
 </a>
 
 ### 🌱 Currently Learning
@@ -76,7 +84,7 @@ I'm currently working on a React Native application focused on **GPS, maps, loca
 
 ### 💬 Ask Me About
 
-**C# • ASP.NET Core • APIs • Angular • PostgreSQL • SQL Server • Android • GPS • GIS**
+**C# • ASP.NET Core • REST APIs • Angular • PostgreSQL • SQL Server • Android • GPS • GIS**
 
 ---
 
@@ -132,24 +140,35 @@ I'm currently working on a React Native application focused on **GPS, maps, loca
 <div align="center">
 
 <a href="https://github.com/AkshayUpadhayay0">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akshayupadhayay0&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Akshay's GitHub Stats"/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=akshayupadhayay0&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
+    alt="Akshay's GitHub Stats"
+  />
 </a>
 
 <a href="https://github.com/AkshayUpadhayay0">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayupadhayay0&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Akshay's Top Languages"/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayupadhayay0&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    alt="Akshay's Top Languages"
+  />
 </a>
 
 </div>
 
-<br>
+---
+
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=akshayupadhayay0&hide_border=true&theme=transparent" alt="Akshay's GitHub Streak"/>
+<a href="https://github.com/AkshayUpadhayay0">
+  <img
+    src="https://streak-stats.demolab.com/?user=akshayupadhayay0&hide_border=true&theme=transparent"
+    alt="Akshay's GitHub Contribution Streak"
+  />
+</a>
 
 </div>
 
@@ -159,7 +178,12 @@ I'm currently working on a React Native application focused on **GPS, maps, loca
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayupadhayay0&theme=github-compact&hide_border=true&area=true" alt="Akshay's Contribution Activity Graph"/>
+<a href="https://github.com/AkshayUpadhayay0">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akshayupadhayay0&theme=github-compact&hide_border=true&area=true"
+    alt="Akshay's GitHub Contribution Activity Graph"
+  />
+</a>
 
 </div>
 
@@ -169,7 +193,12 @@ I'm currently working on a React Native application focused on **GPS, maps, loca
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akshayupadhayay0&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+<a href="https://github.com/AkshayUpadhayay0">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=akshayupadhayay0&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    alt="Akshay's GitHub Trophies"
+  />
+</a>
 
 </div>
 
@@ -179,43 +208,52 @@ I'm currently working on a React Native application focused on **GPS, maps, loca
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-## 🗺️ React Native GPS Map App
+### 🗺️ React Native GPS Map App
 
-A mobile application focused on GPS, maps and location-based workflows.
+A mobile application focused on GPS, maps and
+location-based workflows.
 
 **Tech Stack**
 
 `React Native` `TypeScript` `GPS` `Maps`
 
-<br>
+<br/>
 
 <a href="https://github.com/AkshayUpadhayay0/react-native-gps-map-app">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Repository"
+  />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌲 GIS / GPS Field Applications
+### 🌲 GIS / GPS Field Applications
 
-Applications focused on GPS positioning, mapping, field surveys and real-world data collection.
+Applications focused on GPS positioning, mapping,
+field surveys and real-world data collection.
 
 **Tech Stack**
 
 `C#` `.NET` `Android` `PostgreSQL` `GIS` `GPS`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## 🏫 School Management System
+### 🏫 School Management System
 
-Full-stack applications covering student management, attendance, examinations, reports, notices and communication.
+Full-stack applications covering student management,
+attendance, examinations, reports, notices and communication.
 
 **Tech Stack**
 
@@ -225,27 +263,107 @@ Full-stack applications covering student management, attendance, examinations, r
 
 <td width="50%" valign="top">
 
-## 📍 Location-Based Applications
+### 📍 Location-Based Applications
 
-Software focused on coordinates, spatial data, field workflows and location-aware systems.
+Software focused on coordinates, spatial data,
+field workflows and location-aware systems.
 
 **Tech Stack**
 
 `GIS` `GPS` `APIs` `PostgreSQL` `Mobile`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 💡 What I Enjoy Building
+# 💡 Areas I Enjoy Working In
 
-```text
-Backend Development        ████████████████████
-REST APIs                  ████████████████████
-GIS / GPS Applications     ██████████████████░░
-Database Systems           ██████████████████░░
-Full-Stack Applications    ████████████████░░░░
-Mobile Applications        ███████████████░░░░░
-Offline-First Systems      ███████████████░░░░░
+| Area | Focus |
+|---|---|
+| 🔧 Backend Development | C#, ASP.NET Core, REST APIs |
+| 🌐 Full-Stack Development | Angular, TypeScript, .NET |
+| 🗺️ GIS / GPS | Maps, coordinates, spatial workflows |
+| 📱 Mobile Development | Android, React Native |
+| 🗄️ Databases | PostgreSQL, SQL Server |
+| 📴 Offline-First Systems | Local storage, synchronization, field workflows |
+| 🔄 Data & APIs | Integration, synchronization, reliable services |
+
+---
+
+# 🌱 Currently Exploring
+
+- ⚛️ React Native
+- 🗺️ Mobile GIS & mapping
+- 📍 GPS-based applications
+- 📴 Offline-first mobile architecture
+- 🔄 Data synchronization strategies
+- 🚀 Scalable REST APIs
+- 🗄️ PostgreSQL & spatial data
+- 🧩 Clean architecture
+- 📱 Cross-platform mobile development
+
+---
+
+# 🤝 Open to Collaboration
+
+I'm interested in collaborating on projects involving:
+
+**🗺️ Maps & GIS**  
+**📍 GPS & Location Technology**  
+**📱 Mobile Applications**  
+**🌐 Full-Stack Applications**  
+**🔌 Backend & API Development**  
+**📴 Offline-First Applications**  
+**🌲 Field Data Collection Systems**
+
+If you're building something interesting in these areas,
+feel free to reach out.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AkshayUpadhayay0">
+  <img
+    src="https://img.shields.io/badge/GitHub-AkshayUpadhayay0-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://linkedin.com/in/akshay-upadhayay">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Akshay%20Upadhayay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://akshayupadhayay0.github.io/portfolio_/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="mailto:akshaykumarupadhayay98@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build • Learn • Improve • Repeat
+
+Thanks for visiting my profile! 🚀
+
+</div>
