@@ -20,21 +20,6 @@ and offline-first systems.
 <a href="https://github.com/AkshayUpadhayay0?tab=repositories">
   <img src="https://img.shields.io/github/stars/AkshayUpadhayay0?label=Stars&style=flat" alt="GitHub Stars"/>
 </a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/akshay-upadhayay">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://akshayupadhayay0.github.io/portfolio_/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="mailto:akshaykumarupadhayay98@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
 </div>
 
 ---
