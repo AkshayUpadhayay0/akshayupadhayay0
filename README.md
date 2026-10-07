@@ -36,16 +36,6 @@ I enjoy building software that solves practical, real-world problems —
 especially applications involving **GIS, GPS, maps, field data collection,
 mobile devices, and offline-first workflows**.
 
-### What I Focus On
-
-- 🔹 Backend & REST API development
-- 🔹 Full-stack web applications
-- 🔹 GIS / GPS-based applications
-- 🔹 Mobile applications
-- 🔹 Offline-first systems
-- 🔹 Database design & optimization
-- 🔹 Real-world field data collection systems
-- 🔹 Clean and maintainable application architecture
 ---
 
 # 📊 GitHub Analytics
