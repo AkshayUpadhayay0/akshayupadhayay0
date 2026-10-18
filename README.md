@@ -62,6 +62,21 @@ mobile devices, and offline-first workflows**.
 
 ---
 
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/AkshayUpadhayay0">
+  <img
+    src="https://streak-stats.demolab.com/?user=akshayupadhayay0&hide_border=true&theme=transparent"
+    alt="Akshay's GitHub Contribution Streak"
+  />
+</a>
+
+</div>
+
+---
+
 # 🤝 Open to Collaboration
 
 I'm interested in collaborating on projects involving:
