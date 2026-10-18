@@ -62,51 +62,6 @@ mobile devices, and offline-first workflows**.
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/AkshayUpadhayay0">
-  <img
-    src="https://streak-stats.demolab.com/?user=akshayupadhayay0&hide_border=true&theme=transparent"
-    alt="Akshay's GitHub Contribution Streak"
-  />
-</a>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/AkshayUpadhayay0">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=akshayupadhayay0&theme=github-compact&hide_border=true&area=true"
-    alt="Akshay's GitHub Contribution Activity Graph"
-  />
-</a>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/AkshayUpadhayay0">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=akshayupadhayay0&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-    alt="Akshay's GitHub Trophies"
-  />
-</a>
-
-</div>
-
----
-
 # 🤝 Open to Collaboration
 
 I'm interested in collaborating on projects involving:
