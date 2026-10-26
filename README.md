@@ -94,42 +94,6 @@ feel free to reach out.
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/AkshayUpadhayay0">
-  <img
-    src="https://img.shields.io/badge/GitHub-AkshayUpadhayay0-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://linkedin.com/in/akshay-upadhayay">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Akshay%20Upadhayay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://akshayupadhayay0.github.io/portfolio_/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"
-    alt="Portfolio"
-  />
-</a>
-
-<a href="mailto:akshaykumarupadhayay98@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💻 Build • Learn • Improve • Repeat
